@@ -1,3 +1,12 @@
+# Rails Girlsについて
+
+このリポジトリは、[Rails Girls ガイド](https://railsgirls.jp/)のワークショップを①から⑬まで行ったものです（⑨、⑩、⑭は行っていません）。
+
+このRuby on Railsアプリ（Ideas）を動かすためには、以下のコマンドを実行する必要があります。
+
+- rails db:migrate
+- sudo apt-get update && sudo apt-get install -y imagemagick（Linuxの場合）（「⑬画像のサムネイルを作ってみよう」を参照）
+
 # GitHub Codespaces ♥️ Ruby on Rails
 
 Welcome to your shiny new Codespace running Rails! We've got everything fired up and running for you to explore Rails.
